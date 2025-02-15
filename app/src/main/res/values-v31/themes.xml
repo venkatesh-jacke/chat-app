@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-
 <resources>
-
-
 
     <style name="Theme.ChatApp" parent="android:Theme.Material.Light.NoActionBar">
         <item name="windowSplashScreenBackground">@color/pink</item> <!-- Background color -->
         <item name="android:windowSplashScreenAnimatedIcon">@drawable/chaticon</item>
     </style>
-
-
 </resources>
